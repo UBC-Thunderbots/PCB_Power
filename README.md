@@ -1,4 +1,4 @@
-# PCB_MotorDriver Description
+# PCB_Power Description
 Github SVN repository for UBC Thunderbots PCB_Power Altium project files. 
 
 # How to link repository with Altium Designer
