@@ -1,5 +1,26 @@
 
-*.Zip
+# Created by https://www.gitignore.io/api/altium,ltspice
+# Edit at https://www.gitignore.io/?templates=altium,ltspice
+
+### Altium ###
+# Previews Folders
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project\ Logs*/
+
+# Project Outputs
+Project\ Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+
 
 ### LTspice ###
 # gitignore template for LTspice
