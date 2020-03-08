@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/altium,ltspice
 # Edit at https://www.gitignore.io/?templates=altium,ltspice
 
@@ -18,9 +17,22 @@ Project\ Outputs*/
 # Auto-conversion notices
 *.PcbDoc.htm
 
+# Gerbers
+*.ger
+*.nc
+*.do
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+
 # Access lock file for dbLib sources
 **/*.ldb
-
 
 ### LTspice ###
 # gitignore template for LTspice
@@ -37,17 +49,3 @@ Project\ Outputs*/
 *.net
 
 # End of https://www.gitignore.io/api/altium,ltspice
-
-#exclude gerbers
-*.ger
-*.nc
-*.do
-*.GBL
-*.GBO
-*.GBP
-*.GBS
-*.GML
-*.GTL
-*.GTO
-*.GTP
-*.GTS
