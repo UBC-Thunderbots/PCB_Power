@@ -1,0 +1,33 @@
+Comment,Designator,Description,Digikey,Digikey Link,MF,MP,Package,Quantity,Rating
+,,,,,,,,,
+100nF,"C1, C3, C6",CAP CER 0.1UF 50V X7R 0805,311-1140-1-ND,https://www.digikey.ca/products/en?keywords=311-1140-1-ND,Yageo,CC0805KRX7R9BB104,805,3,50V
+10uF,"C7, C8",CAP CER 10UF 50V X7R 1210,1276-3388-1-ND,https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL32B106KBJNNWE/1276-3388-1-ND/3891474,Samsung Electro-Mechanics,CL32B106KBJNNWE,1210,2,50V
+8.2nF,C9,CAP CER 8200PF 50V X7R 0805,399-9275-1-ND,https://www.digikey.ca/product-detail/en/kemet/C0805C822K5RACTU/399-9275-1-ND/3522793,KEMET,C0805C822K5RACTU,805,1,50V
+47uF,"C10, C11",CAP CER 47UF 6.3V X7R 1210,490-4844-1-ND,https://www.digikey.ca/product-detail/en/murata-electronics/GCM32ER70J476KE19L/490-4844-1-ND/1763982,Murata Electronics,GCM32ER70J476KE19L,1210,2,6.3V
+10pF,C12,CAP CER SMD 0603 10PF 10% X7R 50,399-17562-1-ND,https://www.digikey.ca/product-detail/en/kemet/C0603C100K5RAC7867/399-17562-1-ND/8572562,KEMET,C0603C100K5RAC7867,603,1,50V
+1nF,C13,CAP CER 1000PF 50V X7R 0805,311-1127-1-ND,https://www.digikey.ca/products/en?keywords=311-1127-1-ND,Yageo,CC0805KRX7R9BB102,805,1,50V
+4.7uF,"C14, C15",CAP CER 4.7UF 25V X5R 0805,1276-2873-1-ND,https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL21B475KOFNNNE/1276-2873-1-ND/3890959,Samsung Electro-Mechanics,CL21B475KOFNNNE,805,2,16V
+MMSZ5245B-TP,D1,Zener Diode 15V 500mW ±5% Surface Mount SOD-123,,,ON Semiconductor,MMSZ5224BT1G,SOD-123 ON Semiconductor,1,
+LED2,"D3, D4, D5","Typical RED, GREEN, YELLOW, AMBER GaAs LED",160-1446-1-ND,https://www.digikey.ca/products/en?keywords=160-1446-1-ND,Lite-On Inc.,LTST-C191KGKT,603,3,2V
+SBRD10200TR,D8,Diode Schottky 200V 10A Surface Mount DPAK,1655-1939-1-ND,https://www.digikey.ca/product-detail/en/smc-diode-solutions/SBRD10200TR/1655-1939-1-ND/8625508,SMC Diode,SBRD10200TR,TO-252-3 SMC,1,
+Fuse 20A 1206,F1,FUSE BOARD MOUNT 20A 32VAC 63VDC,486-1689-6-ND,https://www.digikey.ca/product-detail/en/schurter-inc/3413.0331.22/486-1689-6-ND/2870024,Schurter Inc.,3413.0331.22,,1,20A
+CONN HEADER VERT 6POS 3.96MM,"JM1, JM2, JM3, JM4","Connector Header Through Hole 6 position 0.156 (3.96mm)""",https://www.digikey.ca/product-detail/en/te-connectivity-amp-connectors/1877285-6/A99849-ND/2000097,A99849-ND,TE Connectivity,1877285-6,,4,
+SRU1048-8R2Y,L1,FIXED IND 8.2UH 4.6A 15 MOHM SMD,SRU1048-8R2YCT-ND,https://www.digikey.ca/en/products/detail/bourns-inc/SRU1048-8R2Y/2352912,Bourns Inc.,SRU1048-8R2Y,Nonstandard,1,
+XT60,P1,XT60 CONNECTORS FEMALE PAIR,1568-1816-ND,https://www.digikey.ca/product-detail/en/sparkfun-electronics/PRT-10474/1568-1816-ND/8258064,SparkFun Electronics,PRT-10474,XT60,1,
+Header 2X2,P3,"Header, 2-Pin, Dual row",,,,,,1,
+Header 4X2,PN,"Header, 4-Pin, Dual row",,,,,,1,
+AON6407,"Q1, Q2","P-Channel 30V 32A (Ta), 85A (Tc) 7.3W (Ta), 83W (Tc) Surface Mount 8-DFN (5x6)",785-1421-1-ND,https://www.digikey.ca/product-detail/en/alpha-omega-semiconductor-inc/AON6407/785-1421-1-ND/3466800,Alpha & Omega Semiconductor Inc.,AON6407,8-PowerSMD,2,
+1.96K,"R2, R13",RES SMD 1.96K OHM 1% 1/8W 0805,P1.96KCCT-ND,https://www.digikey.ca/product-detail/en/panasonic-electronic-components/ERJ-6ENF1961V/P1.96KCCT-ND/119041,Panasonic Electronic Components,ERJ-6ENF1961V,805,2,0.125W
+270,R3,RES SMD 270 OHM 5% 1/8W 0805,311-270ARCT-ND,https://www.digikey.ca/product-detail/en/yageo/RC0805JR-07270RL/311-270ARCT-ND/731238,Yageo,RC0805JR-07270RL,805,1,0.125W
+110,R4,RES SMD 110 OHM 1% 1/8W 0805,311-110CRCT-ND,https://www.digikey.ca/product-detail/en/yageo/RC0805FR-07110RL/311-110CRCT-ND/730506,Yageo,RC0805FR-07110RL,805,1,0.125W
+100k,"R5, R17",RES SMD 100K OHM 1% 1/8W 0805,311-100KCRCT-ND,https://www.digikey.ca/products/en?keywords=311-100KCRCT-ND,Yageo,RC0805FR-07100KL,805,2,0.125W
+10,"R6, R7",RES SMD 10 OHM 1% 1/8W 0805,311-10.0CRCT-ND,https://www.digikey.ca/product-detail/en/yageo/RC0805FR-0710RL/311-10.0CRCT-ND/730481,Yageo,RC0805FR-0710RL,805,2,0.125W
+10k,"R8, R9, R10, R11, R12",RES SMD 10K OHM 1% 1/8W 0805,311-10.0KCRCT-ND,https://www.digikey.ca/products/en?keywords=311-10.0KCRCT-ND,Yageo,RC0805FR-0710KL,805,5,0.125W
+10.2k,R14,RES SMD 10.2K OHM 1% 1/8W 0805,P10.2KCCT-ND,https://www.digikey.ca/product-detail/en/panasonic-electronic-components/ERJ-6ENF1022V/P10.2KCCT-ND/119251,Panasonic Electronic Components,ERJ-6ENF1022V,805,1,0.125W
+24.3K,R15,RES SMD 24.3K OHM 1% 1/8W 0805,311-24.3KCRCT-ND,https://www.digikey.ca/product-detail/en/yageo/RC0805FR-0724K3L/311-24.3KCRCT-ND/730705,Yageo,RC0805FR-0724K3L,805,1,0.125W
+2mOhm,Rshunt,RES 0.002 OHM 1% 1W 1206,696-1370-1-ND,https://www.digikey.ca/product-detail/en/riedon/CSR1206-0R002F1/696-1370-1-ND/2813303,Riedon,CSR1206-0R002F1,1206,1,0.125W
+SPST Rocker,S1,"Rocker Switch SPST 10A (AC) 125V Panel Mount, Snap-In",CH755-ND,https://www.digikey.ca/product-detail/en/zf-electronics/SRB22A2FBBNN/CH755-ND/446021,ZF Electronics,SRB22A2FBBNN,,1,10A 125V
+INA226AIDGSR,U1,"36-V, Bi-Directional, Ultra-High Accuracy, Low-/High-Side, I2C Out Current/Power Monitor w/ Alert 10-VSSOP -40 to 125",296-29034-2-ND,https://www.digikey.ca/product-detail/en/texas-instruments/INA226AIDGSR/296-29034-2-ND/2687236,Texas Instruments,INA226AIDGSR,MSOP-10 Texas Instruments,1,
+TPS54331,U3,"Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC _0.154, 3.90mm Width_",296-39419-1-ND,https://www.digikey.ca/product-detail/en/texas-instruments/TPS54331DDAR/296-39419-1-ND/5143369,Texas Instruments,TPS54331DDAR,8-PowerSOIC,1,
+ZLDO1117K33TC,U4,Linear Voltage Regulator IC Positive Fixed 1 Output  1A TO-252-3,ZLDO1117K33DIDKR-ND,https://www.digikey.ca/product-detail/en/diodes-incorporated/ZLDO1117K33TC/ZLDO1117K33DIDKR-ND/2095639,Diodes Incorporated,ZLDO1117K33TC,TO-252-3,1,
+EMI,"U5, U6","RC (Pi) EMI Filter 2nd Order Low Pass 2 Channel R = 100Ohms, C = 19pF (Total)  SOT-665",1727-4718-1-ND,https://www.digikey.ca/product-detail/en/nexperia-usa-inc/IP4256CZ5-W115/1727-4718-1-ND/2531158,Nexperia USA Inc.,"IP4256CZ5-W,115",SOT-665,2,

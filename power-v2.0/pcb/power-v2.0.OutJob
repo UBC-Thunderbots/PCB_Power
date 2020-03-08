@@ -1,21 +1,8 @@
 [OutputJobFile]
 Version=1.0
-Caption=
-Description=
-VaultGUID=
-ItemGUID=
-ItemHRID=
-RevisionGUID=
-RevisionId=
-VaultHRID=
-AutoItemHRID=
-NextRevId=
-FolderGUID=
-LifeCycleDefinitionGUID=
-RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -50,7 +37,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=power_distribution.PcbDoc
+OutputDocumentPath2=power-v2.0.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -97,7 +84,7 @@ Configuration3_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration3_Name3=ForceUpdateSettings
 Configuration3_Item3=False
 Configuration3_Name4=General
-Configuration3_Item4=TemplateFilename=Board Stack Report.XLT
+Configuration3_Item4=TemplateFilename=BOM Default Template.XLT
 Configuration3_Name5=GroupOrder
 Configuration3_Item5=Comment=True|Footprint=True
 Configuration3_Name6=OutputConfigurationParameter1
@@ -108,15 +95,15 @@ Configuration3_Name8=VisibleOrder
 Configuration3_Item8=Comment=80|Description=80|Designator=80|Digikey=80|Digikey Link=80|MF=80|MP=80|Package=80|Price=80|Quantity=80|Rating=80|Value=80
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Hannah\Desktop\Thunderbots\PCB_Power\Power\v2.0\.PDF
+OutputFilePath2=C:\Users\Hannah\Desktop\Thunderbots\PCB_Power\power-v2.0\doc\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Hannah\Desktop\Thunderbots\PCB_Power\Power\v2.0\
+OutputBasePath2=C:\Users\Hannah\Desktop\Thunderbots\PCB_Power\power-v2.0\doc\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=power_distribution.pdf
+OutputFileName2=power-v2.0.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -137,7 +124,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for power_distribution
+OutputBasePath3=
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -150,7 +137,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for power_distribution
+OutputBasePath4=
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -187,7 +174,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Hannah\Desktop\Thunderbots\PCB_Power\Power\v2.0\.PDF
+RelativeOutputPath2=C:\Users\Hannah\Desktop\Thunderbots\PCB_Power\power-v2.0\doc\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
