@@ -37,3 +37,17 @@ Project\ Outputs*/
 *.net
 
 # End of https://www.gitignore.io/api/altium,ltspice
+
+#exclude gerbers
+*.ger
+*.nc
+*.do
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
