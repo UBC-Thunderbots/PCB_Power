@@ -36,7 +36,7 @@ Reference page: https://forum.live.altium.com/#posts/235981/718003
 # Repository Structure
 
 At the highest level, there should be the most up to date board revisions, e.g.
-`power-v2.0/`. Any previous versions should be placed in `previous_revisions/`. Every board revision directory should abide by the following structure:
+`power-v2.0/`. Any previous versions should be placed in `archive/`. Every board revision directory should abide by the following structure:
 
 ```
 <name-v#>/
