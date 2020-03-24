@@ -63,10 +63,10 @@
 	
 	\subsection{CSN and CSP}
 	Negative and positive NMOS source current sense pins. Connect CSP to the source of the external transistor and CSN to ground, then connect a source resistor between CSP and CSN to complete the circuit. The value of this sense resistor is important as it sets the maximum value of the source current through the transistor, which by extension is the current through the transformer primary ($I_{pk}$). This resistor is calculated as follows:
-	\[R_{CS} = \dfrac{I_{pk}}{106mV} = \dfrac{10A}{106mV} = 16m\Omega\]
+	\[R_{CS} = \dfrac{106mV}{I_{pk}} = \dfrac{106mV}{10A} = 16m\Omega\]
 	
 	\subsection{VCC}
-	It's VCC dude. Bypass with a XR5 ceramic cap because the data sheet says so.
+	12V input from the voltage regulator. Bypass with a XR5 ceramic cap because the data sheet says so.
 	
 	\subsection{LVGate}
 	Low voltage gate pin. If $VCC$ is less than 8V, connect to external transistor gate. Otherwise connect to $VCC$. Our $VCC$ is 12V so this pin is connected to $VCC$. 
@@ -84,7 +84,7 @@
 	Discontinuous mode sense pin. Determines when to initiate the next switch cycle. Connect to the external NMOS drain via the $R_{DCM}$ resistor. See section 2 for instructions on setting this resistor value.
 	
 	\subsection{GND}
-	It's ground. Hype.
+	Don't worry about it.
 	
 	\section{External Resistors}
 	\subsection{RTrans, Rout, and RDCM}
@@ -110,9 +110,11 @@
 	The output diode is selected based on the maximum repetitive reverse voltage ($V_{RRM}$) and the average forward current $I_{Av}$. The diode must meet the following requirements:
 	\[V_{RRM} > V_{out} + N*V_{trans} = 240V + 10(24V)  = 480V\]
 	\[I_{Av} > \dfrac{I_pk}{2N} = \dfrac{10A}{2*20} = 0.5A\]  
-	The Fairchild ES3J is one of the diodes recommended by the LT3751 manufacturers (table 4 in the data sheet). It meets our requirements, has a low $t_{rr}$, and Mannheim uses it. 
+	The Fairchild ES3J is one of the diodes recommended by the LT3751 manufacturers (table 4 in the data sheet). It meets our requirements and has a low $t_{rr}$.
 	\subsection{External NMOS}
-	The Fairchild FDS2582 is one of the transistors recommended by the LT3751 manufacturers (table 3 in the data sheet). It safely meets our requirements and is used by Mannheim.
+	The Fairchild FDS2582 is one of the transistors recommended by the LT3751 manufacturers (table 3 in the data sheet).
 	\subsection{RC Snubber Circuit}
-	Work in progress. Currently using the Robojackets Circuit in simulation.
+	The purpose of the RC snubber circuit is to reduce the effect of the transformer leakage inductance. The transformer is not ideal; not all energy will be transferred from one coil to the other. When the MOSFET turns off, this energy needs to go somewhere. Otherwise, we will have a large voltage spike on the drain of the MOSFET, which may be enough to damage it. The voltage spike could also be enough for the comparator to think the capacitor bank is done charging, even if it's actually nowwhere near the charge voltage.\\\\
+	Simulating the LT3751 with the non-ideal transformer was challenging, where seemingly impossible voltage spikes were noticed. After talking with Will from RoboJackets, I think that the spice model for the LT3751 is simply not designed to model a non-ideal transformer. Additionally, this simulation (and possibly the LT3751 itself) is incompatible with industry standard RCD or Zener snubber circuits.\\\\ 
+	For the time being, our approach is to leave footprints for the RC snubber on the PCB and populate as needed. Will said that the transformer leakage inductance was small compared to the inductances caused by the high currents, and they were able to test different combinations of R and C in the snubber. We will use the same approach for the time being. 
 \end{document}
