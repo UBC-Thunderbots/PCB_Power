@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMBFAEUU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Chicker\Design Rule Check - Chicker.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
