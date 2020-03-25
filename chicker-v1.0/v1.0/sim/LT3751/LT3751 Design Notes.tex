@@ -36,7 +36,7 @@
 	\noindent \textbf{Note: Resistor values are calculated values and need to be updated with standard resistor values}
 	
 	\subsection{RVtrans}
-	RVtrans is used as the transformer supply sense pin. The resistor $R_{trans}$ is placed between $V_{trans}$ and the pin. See Section 2 for instructions on setting $RV_{out}$.
+	RVtrans is used as the transformer supply sense pin. The resistor $R_{trans}$ is placed between $V_{trans}$ and the pin. See Section 2 for instructions on setting $RV_{trans}$.
 	
 	\subsection{UVLO1, OVLO1, UVLO2, OVLO2}
 	These four pins serve similar purposes, so they will be covered in the same section. UVLO1 and OVLO1 are the $V_{trans}$ undervoltage/overvoltage detection pins and will raise a fault signal when $V_{trans}$ drops below 18V or goes above 26V. They are connected to $V_{trans}$ via $R_{UVLO1}$ and $R_{OVLO1}$, which are calculated as per page 7 of the data sheet:
@@ -88,7 +88,9 @@
 	
 	\section{External Resistors}
 	\subsection{RTrans, Rout, and RDCM}
-	The values of $R_{trans}, R_{out}, \text{and } R_{DCM}$ are set based on $V_{trans}$ and $\Delta V_{Drain}$, where $\Delta V_{Drain}$ is the difference between $V_{Drain}$ (the drain of the external NMOS) and $V_{trans}$. I couldn't figure out how to analytically find $V_{Drain}$, but simulations showed that it peaked at 48V in our setup and was dependant on $V_{out}$. We use this value for $\Delta V_{Drain}$:
+	The values of $R_{trans}, R_{out}, \text{and } R_{DCM}$ are set based on $V_{trans}$ and $\Delta V_{Drain}$, where $\Delta V_{Drain}$ is the difference between $V_{Drain}$ (the drain of the external NMOS) and $V_{trans}$. $V_{Drain}$ is just $V_{out}$ + $V_{out}$ reflected back over the primary. 
+	\[V_{Drain} = V_{trans} + \dfrac{V_{out}}{n} = 24V + \dfrac{240V}{10} = 48V\]
+	We use this value for $\Delta V_{Drain}$:
 	\[\Delta V_{Drain} = V_{Drain} - V_{trans} = 48V - 24V = 24V\]
 	and compare it to Table 2 in the data sheet (pg 17):
 	
