@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Top.SchDoc
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Flyback|SchDesignator=U_Flyback|FileName=Flyback.SchDoc|SymbolType=Normal|RawFileName=Flyback.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Kicker|SchDesignator=U_Kicker|FileName=Kicker.SchDoc|SymbolType=Normal|RawFileName=Kicker.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
