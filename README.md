@@ -44,7 +44,6 @@ At the highest level, there should be the most up to date board revisions, e.g.
 │   ├── <name>.pdf
 │   └── <name>.xslx or <name>.csv
 ├── pcb/
-│   ├── guidelines/
 │   ├── <name>.PrjPCB
 │   ├── <name>.SchDoc
 │   └── <name>.PcbDoc
@@ -52,10 +51,10 @@ At the highest level, there should be the most up to date board revisions, e.g.
 ```
 
 ## doc/
-For documentation and relevant non-simulation and layout files. This includes PDFs of the design and bills of materials (`*.xlsx` or `.csv` format).
+For documentation and relevant non-simulation and layout files. This includes PDFs of the design and bills of materials (`*.xlsx` or `.csv` format). This also includes schematic and PCB layout guidelines.
 
 ## pcb/
-For any PCB design software files related to the schematic capture and PCB layout of board. This also includes schematic and PCB layout guidelines (`guidelines/`).
+For any PCB design software files related to the schematic capture and PCB layout of board. 
 
 ## sim/
 For any simulation files related to the PCB design here. 
