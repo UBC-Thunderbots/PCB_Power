@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=power-v2.1.SchDoc
+Record=SheetSymbol|SourceDocument=power-v2.1.SchDoc|Designator=Power IO|SchDesignator=Power IO|FileName=power-io.SchDoc|SymbolType=Normal|RawFileName=power-io.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=power-v2.1.SchDoc|Designator=Power Regulation|SchDesignator=Power Regulation|FileName=regulation.SchDoc|SymbolType=Normal|RawFileName=regulation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
