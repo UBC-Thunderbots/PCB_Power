@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MDOVDNYA
 
 [Document8]
-DocumentPath=power-v2.2.SchDoc
+DocumentPath=power-v3.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
