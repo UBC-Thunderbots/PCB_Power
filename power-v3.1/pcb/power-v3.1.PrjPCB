@@ -207,6 +207,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=CAD.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for power_distribution\Design Rule Check - power-v3.html
 DItemRevisionGUID=
@@ -269,6 +286,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument16]
 DocumentPath=Project Outputs for power_distribution\power-v3.1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for power_distribution\ExportSTEP\power-v3.1.step
 DItemRevisionGUID=
 
 [Configuration1]
