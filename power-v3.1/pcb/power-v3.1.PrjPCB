@@ -258,28 +258,45 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=BOM.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for power_distribution\Design Rule Check - power-v3.html
+DocumentPath=Project Outputs for power_distribution\BOM\Bill of Materials-power-v3.1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1-RoundHoles.TXT
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-power-v3.1.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1-SlotHoles.TXT
+DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1.DRR
+DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.EXTREP
+DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
@@ -287,110 +304,54 @@ DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for power_distribution\power-v3.1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for power_distribution\ExportSTEP\power-v3.1.step
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for power_distribution\ExportSTEP\power-v3.1.x_t
 DItemRevisionGUID=
 
