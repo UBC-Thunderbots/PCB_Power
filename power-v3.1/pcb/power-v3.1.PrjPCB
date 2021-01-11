@@ -275,83 +275,96 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=power-v3.1.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for power_distribution\BOM\Bill of Materials-power-v3.1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-power-v3.1.xlsx
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1-RoundHoles.TXT
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1-SlotHoles.TXT
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1.DRR
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.EXTREP
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GBL
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GBO
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GBS
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GKO
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GM1
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GM4
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GTL
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GTO
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.GTS
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\NC Drill\power-v3.1.LDP
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.REP
+DocumentPath=Project Outputs for power_distribution\Gerber\power-v3.1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber\power-v3.1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
 DocumentPath=Project Outputs for power_distribution\ExportSTEP\power-v3.1.step
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for power_distribution\ExportSTEP\power-v3.1.x_t
 DItemRevisionGUID=
 
@@ -957,36 +970,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
