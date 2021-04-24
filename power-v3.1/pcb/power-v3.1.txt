@@ -1,0 +1,26 @@
+Board Information Report
+Filename     : D:\Users\Simon\Documents\UBC\Thunderbots\Electrical\PCB_Power\power-v3.1\pcb\power-v3.1.PcbDoc
+Date         : 12/27/2020
+Time         : 12:16:58 AM
+Time Elapsed : 00:00:00
+
+Plated Hole Size, Pads, Vias
+    0mils, 346, 0
+    7.874mils, 0, 15
+    11.811mils, 6, 74
+    15.748mils, 0, 321
+    23.622mils, 2, 0
+    25mils, 13, 0
+    40.158mils, 38, 0
+    47.244mils, 2, 0
+    66.142mils, 6, 0
+    70mils, 2, 0
+    78.74mils, 10, 0
+    106.299mils, 2, 0
+    141.732mils, 0, 5
+count : 13
+
+Plated Slot Size / Length, Pads
+    39.37mil / 98.031mil, 4
+    70.866mil / 31.496mil, 2
+count : 2
