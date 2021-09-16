@@ -140,6 +140,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YRKEQWKG
 
 [Document7]
+DocumentPath=geneva-interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PWUKJIOB
+
+[Document8]
 DocumentPath=HV-Measurement.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWAWDTAQ
 
-[Document8]
+[Document9]
 DocumentPath=chicker.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGWJSLUT
 
-[Document9]
+[Document10]
 DocumentPath=communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDOVDNYA
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\Altium_Libraries\AltiumLibraries.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=CAD.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=JLC_FAB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=PDF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=BOM.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=power-v3.3-exp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLLFQQDH
 
-[Document16]
+[Document17]
 DocumentPath=Power-MCU-Breakout.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
