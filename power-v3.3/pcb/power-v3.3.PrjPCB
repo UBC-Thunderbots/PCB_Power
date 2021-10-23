@@ -109,23 +109,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FOSBUQZD
 
 [Document5]
-DocumentPath=breakbeam-interface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VISWPEME
-
-[Document6]
 DocumentPath=auto-discharge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,6 +124,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRKEQWKG
+
+[Document6]
+DocumentPath=breakbeam-interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VISWPEME
 
 [Document7]
 DocumentPath=geneva-interface.SchDoc
@@ -327,7 +327,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AJDQYTTM
+DocumentUniqueId=NTTYWEJD
 
 [Document18]
 DocumentPath=..\..\..\Altium_Libraries\AltiumLibraries.SchLib
@@ -344,7 +344,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UKVWZRWA
 
 [Configuration1]
 Name=Sources
