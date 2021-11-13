@@ -279,7 +279,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=power-v3.3-exp.PcbDoc
+DocumentPath=power-v3.2-exp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
