@@ -329,6 +329,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNRVUNQK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for power_distribution\Design Rule Check - power-v3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
