@@ -1,3 +1,15 @@
+/*
+Chicker Testor
+Author: Simon Zheng
+
+Chicker test script for standalone testing of the powerboard functions. This is designed to interface
+with powerboards using the Lt375x charge controllers.
+
+This code requires an external button connected to the KICK_INTERRUPT pin with external RC debouncing.
+
+Adjust KICK_POWER in ther interval of 1ms - 20ms (nominal)
+*/
+
 #include "TeensyTimerTool.h"
 #include "PulseGen.h"
 
