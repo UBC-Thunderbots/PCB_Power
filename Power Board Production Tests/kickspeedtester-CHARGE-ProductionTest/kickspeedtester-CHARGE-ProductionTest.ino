@@ -36,7 +36,7 @@ void setup() {
   pinMode(FAULT, INPUT);
   pinMode(CHRG, OUTPUT);
   pinMode(GPIO_PIN, OUTPUT);
-  digitalWrite(CHRG, HIGH);
+  //digitalWrite(CHRG, HIGH);
 
   timer = timerBegin(0, 80, true); 
   timerAttachInterrupt(timer, &stopPulse, true);
@@ -44,11 +44,11 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly
-  int pulse_width = 1000;
-//  do {
-//    pulse_width = Serial.parseInt();
-//    delay(50);
-//  } while (pulse_width == 0);
+  int pulse_width = 0;
+  do {
+    pulse_width = Serial.parseInt();
+    delay(50);
+  } while (pulse_width == 0);
 
   Serial.print("Charging to kick at ");
   Serial.println(pulse_width);
