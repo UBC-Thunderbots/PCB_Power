@@ -4,6 +4,7 @@ int HV_SENSE = 36;
 int FAULT = 27;
 int DONE = 26;
 int CHRG = 25;
+int BKBM = 37;
 
 hw_timer_t * timer = NULL; 
 
@@ -36,21 +37,35 @@ void setup() {
   pinMode(FAULT, INPUT);
   pinMode(CHRG, OUTPUT);
   pinMode(GPIO_PIN, OUTPUT);
+  pinMode(BKBM, INPUT);
+  digitalWrite(CHRG, HIGH);
 
   timer = timerBegin(0, 80, true); 
   timerAttachInterrupt(timer, &stopPulse, true);
+  delay(1000);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly
-  int pulse_width = 0;
-  do {
-    pulse_width = Serial.parseInt();
-    delay(50);
-  } while (pulse_width == 0);
 
-  Serial.print("Charging to kick at ");
-  Serial.println(pulse_width);
+  // put your main code here, to run repeatedly
+  int pulse_width = 500;
+  if (digitalRead(BKBM) == LOW)
+  {
+    oneShotPulse(pulse_width);
+    delay(3000);
+  }
+  else
+  {
+    //Serial.println(digitalRead(BKBM));
+  }
+
+//  do {
+//    pulse_width = Serial.parseInt();
+//    delay(50);
+//  } while (pulse_width == 0);
+
+//  Serial.print("Charging to kick at ");
+//  Serial.println(pulse_width);
 
 //  if (pulse_width > 4000)
 //  {
@@ -58,14 +73,14 @@ void loop() {
 //    return;
 //  }
 
-  digitalWrite(CHRG, HIGH);
+
   //delay(1000);
   //digitalWrite(CHRG, LOW);
   
-  Serial.println("Going to kick in 3 seconds, standback");
-  delay(5000);
-  oneShotPulse(pulse_width);
-  Serial.println("Kicked");
+//  Serial.println("Going to kick in 3 seconds, standback");
+//  delay(5000);
+
+//  Serial.println("Kicked");
   
 }
 
