@@ -35,7 +35,10 @@ void setup() {
   pinMode(DONE, INPUT);
   pinMode(FAULT, INPUT);
   pinMode(CHRG, OUTPUT);
-  pinMode(GPIO_PIN, OUTPUT);
+  pinMode(32, OUTPUT);
+  pinMode(33,OUTPUT);
+  //digitalWrite(32,LOW);
+  //digitalWrite(33,LOW);
 
   timer = timerBegin(0, 80, true); 
   timerAttachInterrupt(timer, &stopPulse, true);

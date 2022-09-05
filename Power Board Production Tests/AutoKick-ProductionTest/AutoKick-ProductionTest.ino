@@ -8,7 +8,7 @@ int BKBM = 37;
 
 hw_timer_t * timer = NULL; 
 
-const int GPIO_PIN = 32; //kicking pin
+const int GPIO_PIN = 33; //kicking pin
 
 /**
  * Creates a pulse for a given duration.
@@ -48,7 +48,7 @@ void setup() {
 void loop() {
 
   // put your main code here, to run repeatedly
-  int pulse_width = 500;
+  int pulse_width = 1000;
   if (digitalRead(BKBM) == LOW)
   {
     oneShotPulse(pulse_width);
@@ -99,6 +99,6 @@ bool ChargeCap(int CHRG, int FAULT, int DONE, int HV_SENSE){
       return false;
     }
   }
-  digitalWrite(CHRG, LOW);
+  //digitalWrite(CHRG, LOW);
   return true;
 }
