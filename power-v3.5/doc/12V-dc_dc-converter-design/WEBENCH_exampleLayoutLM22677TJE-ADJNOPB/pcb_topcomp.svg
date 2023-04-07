@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261.5px" height="224.5px" viewbox="0 0 261.5 224.5" version="1.1">
+  <title>LM2267X_TJ263_BI_A_CU1_top: null</title>
+  <desc>LM2267X_TJ263_BI_A_CU1 WebTHERM&amp;reg; Board Layout file</desc>
+<defs>
+<g id="0805">
+  <g id="MASK" style="display:none;">
+  	<g style="display:inline;">
+  		<rect x="0.279" y="0.279" width="7.442" height="4.442"/>
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect style="fill:#CBCBCB;" width="8" height="5"/>
+  	<rect x="1.75" style="fill:#363636;" width="4.5" height="5"/>
+  </g>
+  <g id="OUTLINE" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M5.656,0.594v3.812H2.344V0.594H5.656 M6.25,0h-4.5v5h4.5V0L6.25,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="CAPSMT_62_F12">
+  <g id="MASK" display="none">
+  	<rect x="0.5" y="18.479" display="inline" stroke="#000000" width="44" height="5.242"/>
+  	<polygon display="inline" stroke="#000000" points="33.8,0.5 1.877,0.5 1.877,41.699 34.049,41.699 43.125,32.65 43.125,9.863 	"/>
+  </g>
+  <g id="COLOR">
+  	<rect x="0.5" y="18.479" fill="#CCCCCC" stroke="#000000" width="44" height="5.242"/>
+  	<polygon fill="#666666" stroke="#000000" points="33.8,0.5 1.877,0.5 1.877,41.699 34.049,41.699 43.125,32.65 43.125,9.863 	"/>
+  	<ellipse fill="#CCCCCC" stroke="#000000" cx="22.501" cy="21.1" rx="18.334" ry="18.728"/>
+  </g>
+  <g id="OUTLINE" display="none">
+  	<polygon display="inline" fill="none" stroke="#000000" points="33.8,0.5 1.877,0.5 1.877,41.699 34.049,41.699 43.125,32.65 
+  		43.125,9.863 	"/>
+  	<ellipse display="inline" fill="none" stroke="#000000" cx="22.501" cy="21.1" rx="18.334" ry="18.728"/>
+  	<polyline display="inline" fill="none" stroke="#000000" points="1.907,23.721 0.5,23.721 0.5,18.479 1.782,18.479 	"/>
+  	<polyline display="inline" fill="none" stroke="#000000" points="43.157,18.479 44.5,18.479 44.5,23.721 43.282,23.721 	"/>
+  </g>
+</g>
+<g id="SM_RADIAL_F">
+  <g id="Mask" display="none">
+  	<rect x="0.328" y="14.87" display="inline" width="39.862" height="3.747"/>
+  	<polygon display="inline" points="2.249,0.316 30.366,0.316 36.659,6.745 36.715,26.165 29.54,33.192 2.105,33.192 	"/>
+  	<polygon display="inline" stroke="#000000" points="0.5,15.06 2.377,15.06 2.377,0.5 30.257,0.5 36.958,7.25 36.989,14.902 
+  		40.328,14.902 40.328,19 36.989,19 37.084,25.894 29.38,33.516 2.233,33.375 2.233,18.346 0.5,18.346 	"/>
+  	<ellipse display="inline" stroke="#000000" cx="20.215" cy="16.616" rx="14.799" ry="14.775"/>
+  	<line display="inline" stroke="#000000" x1="37.011" y1="14.352" x2="37.011" y2="19.342"/>
+  </g>
+  <g id="Color">
+  	<rect x="0.328" y="14.87" fill="#CCCCCC" width="39.862" height="3.747"/>
+  	<polygon fill="#666666" points="2.249,0.316 30.366,0.316 36.659,6.745 36.715,26.165 29.54,33.192 2.105,33.192 	"/>
+  	<polygon fill="none" stroke="#000000" points="0.5,15.06 2.377,15.06 2.377,0.5 30.257,0.5 36.958,7.25 36.989,14.902 
+  		40.328,14.902 40.328,19 36.989,19 37.084,25.894 29.38,33.516 2.233,33.375 2.233,18.346 0.5,18.346 	"/>
+  	<ellipse fill="#CCCCCC" stroke="#000000" cx="20.215" cy="16.616" rx="14.799" ry="14.775"/>
+  	<line fill="none" stroke="#000000" x1="37.011" y1="14.352" x2="37.011" y2="19.342"/>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="0.328" y="14.87" display="inline" fill="#FFFFFF" width="39.862" height="3.747"/>
+  	<polygon display="inline" fill="#FFFFFF" points="2.249,0.316 30.366,0.316 36.659,6.745 36.715,26.165 29.54,33.192 2.105,33.192 
+  			"/>
+  	<polygon display="inline" fill="#FFFFFF" stroke="#000000" points="0.5,15.06 2.377,15.06 2.377,0.5 30.257,0.5 36.958,7.25 
+  		36.989,14.902 40.328,14.902 40.328,19 36.989,19 37.084,25.894 29.38,33.516 2.233,33.375 2.233,18.346 0.5,18.346 	"/>
+  	<ellipse display="inline" fill="#FFFFFF" stroke="#000000" cx="20.215" cy="16.616" rx="14.799" ry="14.775"/>
+  	<line display="inline" fill="#FFFFFF" stroke="#000000" x1="37.011" y1="14.352" x2="37.011" y2="19.342"/>
+  </g>
+</g>
+<g id="XAL1510">
+  <g id="Mask" display="none">
+  	<polygon display="inline" stroke="#000000" points="56.773,60.656 56.773,66.1 7.115,66.1 7.115,60.656 0.5,60.656 0.5,5.257 
+  		7.115,5.257 7.115,0.5 56.773,0.5 56.773,5.257 62.1,5.257 62.1,60.656 	"/>
+  	<path display="inline" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.844,15.085L1.844,15.085
+  		c-0.954,0.432-1.916-0.626-0.93-1.6C5.853,8.607,2.704,3.043,4.977,3.082l0,0c0.594,0,1.035,0.514,1.075,1.145
+  		C6.235,7.107,5.54,12.949,1.844,15.085z"/>
+  	<path display="inline" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M55.004,17.47L55.004,17.47
+  		c-1.037,0.518-2.083-0.751-1.012-1.918c5.368-5.847,1.946-12.516,4.415-12.47l0,0c0.646,0,1.125,0.616,1.169,1.372
+  		C59.774,7.907,59.02,14.909,55.004,17.47z"/>
+  	<path display="inline" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.844,50.226L1.844,50.226
+  		c-0.954-0.433-1.916,0.626-0.93,1.6c4.938,4.88,1.789,10.442,4.062,10.403l0,0c0.594,0,1.035-0.514,1.075-1.145
+  		C6.235,58.203,5.54,52.363,1.844,50.226z"/>
+  	<path display="inline" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M55.004,47.841L55.004,47.841
+  		c-1.037-0.518-2.083,0.751-1.012,1.919c5.368,5.847,1.946,12.517,4.415,12.469l0,0c0.646,0,1.125-0.616,1.169-1.371
+  		C59.774,57.403,59.02,50.401,55.004,47.841z"/>
+  </g>
+  <g id="Color">
+  	<polygon fill="#666666" stroke="#000000" points="56.773,60.656 56.773,66.1 7.115,66.1 7.115,60.656 0.5,60.656 0.5,5.257 
+  		7.115,5.257 7.115,0.5 56.773,0.5 56.773,5.257 62.1,5.257 62.1,60.656 	"/>
+  	<path fill="none" stroke="#000000" d="M9.415,56.38C3.903,50.454,0.5,42.299,0.5,33.3c0-9.058,3.447-17.257,9.021-23.193"/>
+  	<path fill="none" stroke="#000000" d="M53.078,10.105C58.652,16.041,62.1,24.242,62.1,33.3c0,8.999-3.404,17.152-8.914,23.079"/>
+  	<path fill="none" stroke="#000000" d="M9.414,53.595C4.97,48.165,2.28,41.067,2.28,33.3c0-7.892,2.778-15.094,7.35-20.556"/>
+  	<path fill="none" stroke="#000000" d="M53.174,12.989c4.45,5.432,7.146,12.536,7.146,20.311c0,7.721-2.658,14.782-7.055,20.198"/>
+  	<path fill="none" stroke="#000000" d="M9.369,47.77c-2.45-4.202-3.865-9.16-3.865-14.47s1.415-10.268,3.864-14.47"/>
+  	<path fill="none" stroke="#000000" d="M53.479,19.265c2.297,4.107,3.616,8.908,3.616,14.035c0,5.397-1.461,10.429-3.986,14.675"/>
+  	<rect x="9.374" y="0.5" fill="none" stroke="#000000" width="43.853" height="65.6"/>
+  	<path fill="#E6E6E6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.844,15.085L1.844,15.085
+  		c-0.954,0.432-1.916-0.626-0.93-1.6C5.853,8.607,2.704,3.043,4.977,3.082l0,0c0.594,0,1.035,0.514,1.075,1.145
+  		C6.235,7.107,5.54,12.949,1.844,15.085z"/>
+  	<path fill="#E6E6E6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M55.004,17.47L55.004,17.47
+  		c-1.037,0.518-2.083-0.751-1.012-1.918c5.368-5.847,1.946-12.516,4.415-12.47l0,0c0.646,0,1.125,0.616,1.169,1.372
+  		C59.774,7.907,59.02,14.909,55.004,17.47z"/>
+  	<path fill="#E6E6E6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.844,50.226L1.844,50.226
+  		c-0.954-0.433-1.916,0.626-0.93,1.6c4.938,4.88,1.789,10.442,4.062,10.403l0,0c0.594,0,1.035-0.514,1.075-1.145
+  		C6.235,58.203,5.54,52.363,1.844,50.226z"/>
+  	<path fill="#E6E6E6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M55.004,47.841L55.004,47.841
+  		c-1.037-0.518-2.083,0.751-1.012,1.919c5.368,5.847,1.946,12.517,4.415,12.469l0,0c0.646,0,1.125-0.616,1.169-1.371
+  		C59.774,57.403,59.02,50.401,55.004,47.841z"/>
+  	<path fill="#E6E6E6" stroke="#000000" d="M9.374,34.416H4.939c-0.579,0-1.047-0.5-1.047-1.116l0,0c0-0.616,0.468-1.116,1.047-1.116
+  		h4.435"/>
+  	<path fill="#E6E6E6" stroke="#000000" d="M52.904,34.416h4.434c0.578,0,1.048-0.5,1.048-1.116l0,0c0-0.616-0.47-1.116-1.048-1.116
+  		h-4.434"/>
+  	<path fill="#E6E6E6" stroke="#000000" d="M9.502,40.935l-3.161,1.227c-0.544,0.211-1.146-0.089-1.344-0.667l0,0
+  		c-0.198-0.58,0.083-1.221,0.627-1.432l3.599-1.395"/>
+  	<path fill="#E6E6E6" stroke="#000000" d="M9.361,25.61l-3.02-1.17c-0.544-0.211-1.146,0.088-1.344,0.667l0,0
+  		c-0.198,0.58,0.083,1.22,0.627,1.431l3.653,1.416"/>
+  </g>
+  <g id="Outline" display="none">
+  	<path display="inline" fill="none" stroke="#000000" d="M9.415,56.38C3.903,50.454,0.5,42.299,0.5,33.3
+  		c0-9.058,3.447-17.257,9.021-23.193"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M55.929,53.001c-0.844,1.192-1.76,2.32-2.743,3.378"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M57.128,15.422C60.272,20.565,62.1,26.706,62.1,33.3
+  		c0,6.383-1.711,12.338-4.673,17.377"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M53.078,10.105c0.92,0.979,1.78,2.021,2.578,3.116"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M9.414,53.595C4.97,48.165,2.28,41.067,2.28,33.3
+  		c0-7.892,2.778-15.094,7.35-20.556"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M55.195,50.84c-0.599,0.925-1.244,1.812-1.93,2.658"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M55.87,16.846c2.818,4.765,4.45,10.407,4.45,16.454
+  		c0,5.703-1.451,11.044-3.979,15.63"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M53.174,12.989c0.52,0.634,1.016,1.291,1.484,1.968"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M6.953,24.2c0.624-1.894,1.437-3.691,2.415-5.37"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M5.543,31.767c0.083-1.602,0.295-3.165,0.624-4.681"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M6.22,39.756c-0.42-1.859-0.663-3.79-0.708-5.774"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M9.369,47.77c-1.022-1.753-1.864-3.638-2.498-5.625"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M57.074,34.444c-0.191,4.963-1.619,9.587-3.965,13.53"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M53.479,19.265c2.071,3.706,3.349,7.974,3.578,12.539"/>
+  	<rect x="9.374" y="0.5" display="inline" fill="none" stroke="#000000" width="43.853" height="65.6"/>
+  	<polyline display="inline" fill="none" stroke="#000000" points="3.892,60.656 0.5,60.656 0.5,5.257 3.892,5.257 	"/>
+  	<polyline display="inline" fill="none" stroke="#000000" points="56.773,60.656 56.773,66.1 7.115,66.1 7.115,60.656 5.665,60.656 
+  			"/>
+  	<polyline display="inline" fill="none" stroke="#000000" points="59.515,5.257 62.1,5.257 62.1,60.656 59.576,60.656 	"/>
+  	<polyline display="inline" fill="none" stroke="#000000" points="5.826,5.257 7.115,5.257 7.115,0.5 56.773,0.5 56.773,5.257 
+  		57.741,5.257 	"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.844,15.085
+  		L1.844,15.085c-0.954,0.432-1.916-0.626-0.93-1.6C5.853,8.607,2.704,3.043,4.977,3.082l0,0c0.594,0,1.035,0.514,1.075,1.145
+  		C6.235,7.107,5.54,12.949,1.844,15.085z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M55.004,17.47
+  		L55.004,17.47c-1.037,0.518-2.083-0.751-1.012-1.918c5.368-5.847,1.946-12.516,4.415-12.47l0,0c0.646,0,1.125,0.616,1.169,1.372
+  		C59.774,7.907,59.02,14.909,55.004,17.47z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.844,50.226
+  		L1.844,50.226c-0.954-0.433-1.916,0.626-0.93,1.6c4.938,4.88,1.789,10.442,4.062,10.403l0,0c0.594,0,1.035-0.514,1.075-1.145
+  		C6.235,58.203,5.54,52.363,1.844,50.226z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M55.004,47.841
+  		L55.004,47.841c-1.037-0.518-2.083,0.751-1.012,1.919c5.368,5.847,1.946,12.517,4.415,12.469l0,0c0.646,0,1.125-0.616,1.169-1.371
+  		C59.774,57.403,59.02,50.401,55.004,47.841z"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M9.374,34.416H4.939c-0.579,0-1.047-0.5-1.047-1.116l0,0
+  		c0-0.616,0.468-1.116,1.047-1.116h4.435"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M52.904,34.416h4.434c0.578,0,1.048-0.5,1.048-1.116l0,0
+  		c0-0.616-0.47-1.116-1.048-1.116h-4.434"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M9.502,40.935l-3.161,1.227c-0.544,0.211-1.146-0.089-1.344-0.667l0,0
+  		c-0.198-0.58,0.083-1.221,0.627-1.432l3.599-1.395"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M9.361,25.61l-3.02-1.17c-0.544-0.211-1.146,0.088-1.344,0.667l0,0
+  		c-0.198,0.58,0.083,1.22,0.627,1.431l3.653,1.416"/>
+  </g>
+</g>
+<g id="0603">
+  <g id="Mask" style="display:none;">
+  	<rect style="display:inline;" width="6.4" height="3.2"/>
+  	<rect x="1.6" style="display:inline;" width="3.2" height="3.2"/>
+  </g>
+  <g id="Outline" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M6.15,0.25v2.7h-5.9v-2.7H6.15 M6.4,0H0v3.2h6.4V0L6.4,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M4.55,0.25v2.7h-2.7v-2.7H4.55 M4.8,0H1.6v3.2h3.2V0L4.8,0z"/>
+  	</g>
+  </g>
+  <g id="Color">
+  	<rect style="fill:#B3B3B3;" width="6.4" height="3.2"/>
+  	<rect x="1.6" style="fill:#1A1A1A;" width="3.2" height="3.2"/>
+  </g>
+</g>
+<g id="TJ7A">
+  <g id="Mask" display="none">
+  	<rect x="0.5" y="0.5" display="inline" stroke="#000000" width="40" height="40"/>
+  	<rect x="40.5" y="4.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="4.5" display="inline" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="9.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="9.5" display="inline" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="14.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="14.5" display="inline" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="19.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="19.5" display="inline" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="24.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="24.5" display="inline" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="29.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="29.5" display="inline" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="34.5" display="inline" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="34.5" display="inline" stroke="#000000" width="6" height="3"/>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="0.5" y="0.5" display="inline" fill="#FFFFFF" stroke="#000000" width="40" height="40"/>
+  	<rect x="40.5" y="4.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="4.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="9.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="9.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="14.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="14.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="19.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="19.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="24.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="24.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="29.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="29.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="34.5" display="inline" fill="#FFFFFF" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="34.5" display="inline" fill="#FFFFFF" stroke="#000000" width="6" height="3"/>
+  </g>
+  <g id="Color">
+  	<rect x="0.5" y="0.5" fill="#5B5B5B" stroke="#000000" width="40" height="40"/>
+  	<rect x="40.5" y="4.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="4.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="9.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="9.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="14.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="14.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="19.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="19.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="24.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="24.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="29.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="29.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  	<rect x="40.5" y="34.5" fill="#C6C6C6" stroke="#000000" width="10" height="3"/>
+  	<rect x="50.5" y="34.5" fill="#C6C6C6" stroke="#000000" width="6" height="3"/>
+  </g>
+</g>
+<g id="DPAK">
+  <g id="MASK" display="none">
+  	<rect x="0.5" y="1.495" display="inline" stroke="#000000" width="4.476" height="24.128"/>
+  	<rect x="28.928" y="2.573" display="inline" stroke="#000000" width="9.2" height="3.897"/>
+  	<rect x="29.094" y="11.693" display="inline" stroke="#000000" width="4.973" height="3.979"/>
+  	<rect x="29.26" y="20.647" display="inline" stroke="#000000" width="8.702" height="4.062"/>
+  	<rect x="38.128" y="2.573" display="inline" stroke="#000000" width="2.071" height="3.897"/>
+  	<rect x="37.962" y="20.647" display="inline" stroke="#000000" width="2.237" height="4.063"/>
+  	<rect x="5.059" y="0.5" display="inline" stroke="#000000" width="23.953" height="26.2"/>
+  </g>
+  <g id="COLOR">
+  	<rect x="0.5" y="1.495" fill="#C9CDD3" stroke="#000000" width="4.476" height="24.128"/>
+  	<rect x="28.928" y="2.573" fill="#C9CDD3" stroke="#000000" width="9.2" height="3.897"/>
+  	<rect x="29.094" y="11.693" fill="#C9CDD3" stroke="#000000" width="4.973" height="3.979"/>
+  	<rect x="29.26" y="20.647" fill="#C9CDD3" stroke="#000000" width="8.702" height="4.062"/>
+  	<rect x="38.128" y="2.573" fill="#C9CDD3" stroke="#000000" width="2.071" height="3.897"/>
+  	<rect x="37.962" y="20.647" fill="#C9CDD3" stroke="#000000" width="2.237" height="4.063"/>
+  	<rect x="5.059" y="0.5" fill="#737A7F" stroke="#000000" width="23.953" height="26.2"/>
+  </g>
+  <g id="OUTLINE" display="none">
+  	<rect x="0.5" y="1.495" display="inline" fill="none" stroke="#000000" width="4.476" height="24.128"/>
+  	<rect x="28.928" y="2.573" display="inline" fill="none" stroke="#000000" width="9.2" height="3.897"/>
+  	<rect x="29.094" y="11.693" display="inline" fill="none" stroke="#000000" width="4.973" height="3.979"/>
+  	<rect x="29.26" y="20.647" display="inline" fill="none" stroke="#000000" width="8.702" height="4.062"/>
+  	<rect x="38.128" y="2.573" display="inline" fill="none" stroke="#000000" width="2.071" height="3.897"/>
+  	<rect x="37.962" y="20.647" display="inline" fill="none" stroke="#000000" width="2.237" height="4.063"/>
+  	<rect x="5.059" y="0.5" display="inline" fill="none" stroke="#000000" width="23.953" height="26.2"/>
+  </g>
+</g>
+</defs>
+<g id="boardComps">
+  <g id="topview_images">
+    <use x="110.0" y="143.0" width="8.0" height="5.0" transform="rotate(-90.0 114.0 145.0)" name="12_Cbst_0805" xlink:href="#0805" />
+    <use x="52.0" y="54.0" width="45.0" height="42.0" transform="rotate(-180.0 74.0 76.0)" name="3_Cin_CAPSMT_62_F12" xlink:href="#CAPSMT_62_F12" />
+    <use x="84.0" y="162.0" width="8.0" height="5.0" transform="rotate(-180.0 88.0 164.0)" name="10_Cinx_0805" xlink:href="#0805" />
+    <use x="164.0" y="108.0" width="40.0" height="34.0" name="9_Cout_SM_RADIAL_F" xlink:href="#SM_RADIAL_F" />
+    <use x="115.0" y="92.0" width="8.0" height="5.0" name="1_Css_0805" xlink:href="#0805" />
+    <use x="133.0" y="114.0" width="62.0" height="66.0" transform="rotate(-180.0 164.0 147.0)" name="7_L1_XAL1510" xlink:href="#XAL1510" />
+    <use x="115.0" y="118.0" width="8.0" height="5.0" name="6_Rfb1_0805" xlink:href="#0805" />
+    <use x="115.0" y="109.0" width="8.0" height="5.0" transform="rotate(-180.0 119.0 111.0)" name="5_Rfb2_0805" xlink:href="#0805" />
+    <use x="116.0" y="129.0" width="6.0" height="3.0" name="0_Rt_0603" xlink:href="#0603" />
+    <use x="41.0" y="113.0" width="57.0" height="41.0" name="4_U1_TJ7A" xlink:href="#TJ7A" />
+    <use x="64.0" y="169.0" width="40.0" height="27.0" transform="rotate(90.0 85.0 183.0)" name="8_D1_DPAK" xlink:href="#DPAK" />
+  </g>
+</g>
+</svg>

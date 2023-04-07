@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261.5px" height="224.5px" viewbox="0 0 261.5 224.5" version="1.1">
+  <title>LM2267X_TJ263_BI_A_CU1_topoverlay: null</title>
+  <desc>LM2267X_TJ263_BI_A_CU1 WebTHERM&amp;reg; Board Layout file</desc>
+  <g id="board" fill-opacity="1" transform="scale(0.1016,-0.1016) translate(0,-2210.0)">
+    <text x="1312" y="853" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 1312, 853) translate(0,1706) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Radj</text>
+    <text x="1314" y="1243" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 1314, 1243) translate(0,2486) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Css</text>
+    <text x="2227" y="1061" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 2227, 1061) translate(0,2122) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Cout2</text>
+    <text x="346" y="1262" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 346, 1262) translate(0,2524) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Cin1</text>
+    <text x="413" y="1086" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="translate(0,2172) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">U1</text>
+    <text x="1312" y="1095" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 1312, 1095) translate(0,2190) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Rfb2</text>
+    <text x="1312" y="977" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 1312, 977) translate(0,1954) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Rfb1</text>
+    <text x="1860" y="146" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 1860, 146) translate(0,292) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">L1</text>
+    <text x="1088" y="157" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 1088, 157) translate(0,314) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">D1</text>
+    <text x="2227" y="833" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 2227, 833) translate(0,1666) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Cout1</text>
+    <text x="998" y="538" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 998, 538) translate(0,1076) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Cinx</text>
+    <text x="348" y="1451" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 348, 1451) translate(0,2902) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Cin2</text>
+    <text x="1209" y="725" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 1209, 725) translate(0,1450) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Cbst</text>
+    <text x="1871" y="2013" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 1871, 2013) translate(0,4026) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Vout</text>
+    <text x="1764" y="2022" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 1764, 2022) translate(0,4044) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">GND</text>
+    <text x="684" y="2023" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 684, 2023) translate(0,4046) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">GND</text>
+    <text x="795" y="2028" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 795, 2028) translate(0,4056) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Vin</text>
+    <text x="1366" y="1678" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 1366, 1678) translate(0,3356) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Sync/ADJ</text>
+    <text x="1186" y="1797" font-family="Arial" font-style="normal" font-weight="normal" font-size="68" transform="rotate(90.0, 1186, 1797) translate(0,3594) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">En/SS</text>
+    <text x="747" y="83" font-family="Arial" font-style="normal" font-weight="normal" font-size="51" transform="rotate(90.0, 747, 83) translate(0,166) scale(1,-1)" fill="#ffffff" opacity="1.0" layer="TOPOVERLAY">Anode</text>
+    <circle net="0" cx="493" cy="2074" r="70" r1="90" r2="50" stroke-width="40" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="3" cx="945" cy="2072" r="70" r1="90" r2="50" stroke-width="40" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1226" cy="857" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1044" cy="875" r="10" r1="15" r2="5" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="680" cy="280" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="680" cy="376" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="680" cy="472" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="765" cy="472" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="765" cy="376" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="596" cy="376" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="596" cy="472" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="1176" cy="1351" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="1083" cy="925" r="10" r1="15" r2="5" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="1340" cy="2072" r="47" r1="65" r2="30" stroke-width="35" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="1695" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="1578" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="1460" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="1342" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="1224" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="1107" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="989" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1749" cy="871" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="9" cx="1166" cy="2072" r="47" r1="65" r2="30" stroke-width="35" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="596" cy="280" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="765" cy="280" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="753" cy="625" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="753" cy="564" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="529" cy="933" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="529" cy="823" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="529" cy="713" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="641" cy="713" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="641" cy="823" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="641" cy="933" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="753" cy="933" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="753" cy="823" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="753" cy="713" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="866" cy="713" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="866" cy="823" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="866" cy="933" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="866" cy="1043" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="753" cy="1043" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="641" cy="1043" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="529" cy="1043" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="670" cy="1257" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="670" cy="1374" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="670" cy="1492" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="670" cy="1610" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="670" cy="1727" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="670" cy="1845" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="1249" cy="1202" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="1878" cy="1636" r="15" r1="20" r2="10" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1574" cy="2072" r="70" r1="90" r2="50" stroke-width="40" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="2021" cy="2072" r="70" r1="90" r2="50" stroke-width="40" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="2433" cy="2070" r="75" r1="90" r2="60" stroke-width="30" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="9" cx="2433" cy="151" r="75" r1="90" r2="60" stroke-width="30" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="151" cy="152" r="75" r1="90" r2="60" stroke-width="30" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="3" cx="152" cy="2070" r="75" r1="90" r2="60" stroke-width="30" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+  </g>
+</svg>
+
