@@ -1472,17 +1472,20 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+HV|NetColor=$00FF0099
-Net2=NetName=NetD12_2|NetColor=$00FF0099
-Net3=NetName=NetD14_2|NetColor=$00FF0099
-Net4=NetName=NetD7_IN|NetColor=$00FF0099
-Net5=NetName=NetD8_1|NetColor=$00FF0099
-Net6=NetName=NetR25_1|NetColor=$00FF0099
-Net7=NetName=NetR26_1|NetColor=$00FF0099
-Net8=NetName=NetR27_1|NetColor=$00FF0099
-Net9=NetName=NetR28_1|NetColor=$00FF0099
-Net10=NetName=NetR42_1|NetColor=$00FF0099
-Net11=NetName=NetR47_1|NetColor=$00FF0099
-Net12=NetName=NetR48_1|NetColor=$00FF0099
+Net2=NetName=NetC73_1|NetColor=$00FF0099
+Net3=NetName=NetC74_1|NetColor=$00FF0099
+Net4=NetName=NetD12_2|NetColor=$00FF0099
+Net5=NetName=NetD14_2|NetColor=$00FF0099
+Net6=NetName=NetD7_IN|NetColor=$00FF0099
+Net7=NetName=NetD8_1|NetColor=$00FF0099
+Net8=NetName=NetQ4_D|NetColor=$00FF0099
+Net9=NetName=NetR25_1|NetColor=$00FF0099
+Net10=NetName=NetR26_1|NetColor=$00FF0099
+Net11=NetName=NetR27_1|NetColor=$00FF0099
+Net12=NetName=NetR28_1|NetColor=$00FF0099
+Net13=NetName=NetR42_1|NetColor=$00FF0099
+Net14=NetName=NetR47_1|NetColor=$00FF0099
+Net15=NetName=NetR48_1|NetColor=$00FF0099
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
